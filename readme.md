@@ -5,11 +5,11 @@ The script is for BetterDiscord. If you want to start it just put the files in t
 ## 📸 Screenshots
 
 ### Before Detection
-![Normal View](screenshots/notshowchar.png)
+![Normal View](notshowchar.png)
 *Normal message view without detection*
 
 ### After Detection  
-![Detection View](screenshots/showchar.png)
+![Detection View](showchar.png)
 *Same message with unusual characters highlighted*
 
 ## 🔍 Features
@@ -59,4 +59,5 @@ For each detected unusual character, the plugin displays:
 - Change highlight colors
 - Adjust opacity levels  
 - Enable/disable specific character categories
+
 - Toggle detection on/off
